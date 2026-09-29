@@ -17,6 +17,12 @@ romper nada, porque no hay nada que romper. Cada quien entrena en **su propia co
 El cerebro humano tiene alrededor de **86 mil neuronas**, conectadas por billones de
 sinapsis. Por eso puedes leer esta línea.
 
+## El código
+
+En [`codigo/conversor.py`](codigo/conversor.py) vive un módulo pequeño… con un **bug
+escondido a propósito**. No lo toques todavía: se caza en la clase de Agile y Linear,
+**en una rama y por pull request** — así se corrige código en un equipo real.
+
 ## La bitácora
 
 Las entradas del grupo viven en [`bitacora.md`](bitacora.md).
