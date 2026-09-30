@@ -25,4 +25,4 @@ escondido a propósito**. No lo toques todavía: se caza en la clase de Agile y 
 
 ## La bitácora
 
-Las entradas del grupo viven en [`bitacora.md`](bitacora.md).
+Tu línea de bitácora va en [`bitacora.md`](bitacora.md) — una por persona, en TU copia (la mía va de ejemplo).
